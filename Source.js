@@ -336,8 +336,12 @@ function SendToExtensionNew(){
 
 //
   ////Set source Version///////////////
-  chrome.storage.local.set({Localsource: 14});
-
+  chrome.storage.local.get(['Serversource'], function(result) {
+    var Serversource = result.Serversource;
+    if(Serversource==undefined){
+  chrome.storage.local.set({Localsource: 10});
+    }
+  });
 
   // Redirect users to a form when the extension is uninstalled.
 const uninstallListener = (details) => {
