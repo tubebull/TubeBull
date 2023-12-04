@@ -1,20 +1,12 @@
 [
     {
-        image: `https://raw.githubusercontent.com/tubebull/TubeBull/main/Images/Screenshot_5.png`,
-        title: `TubeBull: YouTube Home Sponsorship Opportunity`,
-        description: `Elevate the visibility of your YouTube videos by featuring them on the YouTube homepage
-        through TubeBull. Our platform promotes your content, ensuring organic
-         YouTube views and watch time, effectively boosting the overall visibility
-          and performance of your video on YouTube. `
+        "image": "https://raw.githubusercontent.com/tubebull/TubeBull/main/Images/Screenshot_5.png",
+        "title": "TubeBull: YouTube Home Sponsorship Opportunity",
+        "description": "Elevate the visibility of your YouTube videos by featuring them on the YouTube homepage through TubeBull. Our platform promotes your content, ensuring organic YouTube views and watch time, effectively boosting the overall visibility and performance of your video on YouTube."
     },
     {
-        image: `https://raw.githubusercontent.com/tubebull/TubeBull/main/Images/searcht.png`,
-        title: `TubeBull: YouTube Search Sponsorship Opportunity`,
-        description: `Amplify the reach of your YouTube videos by
-         leveraging TubeBull to strategically promote them on the YouTube search page
-          using relevant keywords. TubeBull users search for content using the promoted
-           keywords, resulting in increased visibility and engagement for your video.
-            This method facilitates effective ranking of your YouTube video on the
-             search page for your desired keywords.`
+        "image": "https://raw.githubusercontent.com/tubebull/TubeBull/main/Images/searcht.png",
+        "title": "TubeBull: YouTube Search Sponsorship Opportunity",
+        "description": "Amplify the reach of your YouTube videos by leveraging TubeBull to strategically promote them on the YouTube search page using relevant keywords. TubeBull users search for content using the promoted keywords, resulting in increased visibility and engagement for your video. This method facilitates effective ranking of your YouTube video on the search page for your desired keywords."
     }
 ]
