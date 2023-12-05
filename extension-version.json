@@ -1,1 +1,6 @@
-{"extensionversion":"1.0", "Injectversion":"1.0", "Server": "https://tubebull-server.vercel.app", "devext":"Hridoy"} 
+{
+  "extensionversion": "1.1",
+  "Injectversion": "1.1",
+  "Server": "https://tubebull-server.vercel.app",
+  "devext": "Hridoy"
+}
