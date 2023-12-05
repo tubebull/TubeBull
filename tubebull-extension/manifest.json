@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Tubebull",
-  "version": "1.1",
+  "version": "1.2",
   "description": "Easy Rank Your Youtube Video",
   "permissions": [
     "scripting",
